@@ -48,12 +48,12 @@ layout: post
 
 - Introduction to World of Approximation
 - Set Cover, Vertex Cover (A greedy approach)
-- Local Search: Max-Cut.
-- Combinatorial Algorithms: Traveling Salesman Problem, Steiner Tree
-- Dynamic Programming and Rounding: Knapsack and Bin Packing
+- Max-Cut (Local Search)
+- Traveling Salesman Problem, Steiner Tree (Combinatorial Algorithms)
+- Knapsack, Bin Packing (Dynamic Programming and Rounding)
 - Introduction to Linear Programming, LP Duality
-- LP-based Algorithms: Randomized and Deterministic Rounding
-- Dual Fitting, Primal-Dual Schema.
+- Randomized Rounding, Deterministic Rounding (LP-based Algorithms)
+- Dual Fitting, Primal-Dual Schema
 
 **<span style="text-decoration:underline;">Division 3: Randomized Algorithms</span>**
 
