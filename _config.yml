@@ -9,8 +9,8 @@ description: >
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://world-of-algorithms.github.io'
-baseurl:          '/ECS198F-world-of-algo'
+baseurl:              'https://world-of-algorithms.github.io'
+url:          '/ECS198F-world-of-algo'
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
