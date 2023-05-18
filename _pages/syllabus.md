@@ -6,28 +6,45 @@ category: Jekyll
 layout: post
 ---
 
+> ##### WARNING
+>
+> The syllabus is a work in progress, Information on this page is subject to change.
+{: .block-warning }
+
 ### Assessment and Grading
 
-* Approximately 6 Homework assignments (10 points each), 1 Final Assignment (larger cumulative homework assignment) (20 points),  1 interactive grading (20 points)
-* To pass the course students will need to attain at least 70 points.
-* All homework assignments and Final assignments will be open notes & open books. The final assignment will intend to challenge students by testing their implementation against time constraints.
+<div class="table-wrapper" markdown="block">
 
+|Catagory|Points|
+|:-:|:-:|
+|Assignments|60|
+|Final Assignment|20|
+|Interactive Grading|20|
+|Extra Credit|3|
+
+</div>
+
+* Homework assignment: will be a mixture of theory question along with coding questions. Majority of the grade can be expected to come from the coding.
+     Programs will be non-trivial and will be tested against pre-determined test cases. (Some test cases may check the runtime of your solution) Submission will be done through gradescope.
+     All homework assignments and Final assignments will be open notes & open books. The final assignment will intend to challenge students by testing their implementation against time constraints. 
+* Final assignment: can be considered as a larger cumulative version of the homework assignments. It will be released early in the quarter and you will have 5-6 weeks to work on it.
+* Interactive grading: is a opportunity to gain some points through 1:1 question and answer session with the instructor. Expect to set aside 20 mintes.
+* Extra Credit: will come in the form of particiapation various forms. 
+* To pass the course students will need to attain at least 70 points.
 
 ### Topics
 
-Note: This is a very rough outline of the course. We plan on covering three main sections of content: competitive programming techniques, approximation algorithms, and randomization algorithms. We will work with Professor Mitrovic to finalize the exact topics within each broader section based on his guidance. Below are the possible topics that we can pick from.
+**<span style="text-decoration:underline;">Division 1: Competitive Programming techniques</span>**
 
-**<span style="text-decoration:underline;">Division 1: Competitive Programming techniques (Coding aspect)-> We know that these are popular</span>**
+* Mathematics
+* Data Structures
+* Dynamic Programming (DP)
+* Basic Graph Algorithms
+* Shortest Path Algorithms
+* Network Flow Problems
+* String Algorithms
 
-* Prime, Sieve, Prime Factorisation
-* Matrix Exponentiation
-* Disjoint Set
-* Sqrt Decomposition/MO’s algo
-* Fenwick Tree
-* Segment Tree
-* Lazy Propagation
-
-**<span style="text-decoration:underline;">Division 2: Approximation Algorithms -> These are NP-Complete problems</span>**
+**<span style="text-decoration:underline;">Division 2: Approximation Algorithms</span>**
 
 * Packing problems: SET-PACKING, INDEPENDENT SET
 * Covering problems: SET-COVER, VERTEX-COVER
