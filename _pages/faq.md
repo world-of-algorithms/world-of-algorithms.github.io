@@ -42,6 +42,10 @@ Please refer to the section about Grades.
 
 At any point during the course, please feel free to reach out to us for any questions/concerns/queries you may have.
 
+#### Can I audit the class?
+
+Yes, we are open to anyone who wants to audit the class. If you want to audit, please reach out to us at `shyagarwal@ucdavis.edu`.
+
 #### How can I get help and clarification on course content or assignments?
 
 Email, office hours, and piazza would be effective ways.
